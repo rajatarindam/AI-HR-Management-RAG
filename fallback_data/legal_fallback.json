@@ -1,0 +1,109 @@
+[
+{
+"topic": "leave_policy",
+"document_type": "hr_policy",
+"simple_answer": "Employees are entitled to multiple types of leave including Casual Leave, Sick Leave, Earned Leave, Maternity Leave, Paternity Leave, Bereavement Leave, and Loss of Pay. Casual Leave is 12 days per year, Sick Leave is 10 days per year, and Earned Leave is 15 days per year. Leave approval depends on leave balance, manager approval, project workload, and business continuity requirements. Emergency leave must be informed within 24 hours. Leave during notice period may be restricted and excessive leave without approval may affect appraisal and promotion eligibility.",
+"red_flags": [
+"Leave without prior approval may be treated as absenteeism",
+"Frequent unplanned leave may negatively affect appraisal and promotion",
+"Insufficient leave balance may result in Loss of Pay salary deduction",
+"Long leave during notice period may be rejected or adjusted against notice buyout",
+"Repeated sick leave without valid medical proof may trigger HR review",
+"Ignoring manager approval may lead to formal warning",
+"Leave misuse during critical project deadlines may impact manager trust"
+],
+"practical_advice": [
+"Always check your leave balance before applying for leave",
+"Apply leave through HRMS portal or official leave request email",
+"For emergency leave, inform your reporting manager and HR within 24 hours",
+"Plan long leave requests at least 7 working days in advance",
+"Keep medical certificates ready for sick leave exceeding 2 days",
+"Discuss notice period leave plans before resignation",
+"Ensure proper work handover before extended leave approval"
+],
+"negotiation_tips": [
+"Discuss planned leave early with your manager instead of last-minute requests",
+"Clarify leave approval conditions during notice period before resigning",
+"Request leave adjustments instead of immediate rejection if project deadlines exist",
+"Ask HR whether Earned Leave can be encashed during final settlement",
+"Confirm sandwich leave rules for weekends and public holidays"
+],
+"risk_level": "medium",
+"user_questions": [
+"How many casual leaves are allowed?",
+"How many sick leaves do employees get?",
+"How many earned leaves are available per year?",
+"Can my manager reject my leave request?",
+"What happens if I take leave without approval?",
+"Can I take leave during notice period?",
+"Will leave affect my promotion eligibility?",
+"Can casual leave be carried forward?",
+"Can earned leave be encashed?",
+"What is Loss of Pay leave?",
+"Can I take 5 days casual leave together?",
+"Do I need medical proof for sick leave?",
+"Can probation employees take leave?",
+"What happens if I exhaust all my leave balance?",
+"Can emergency leave be taken without approval?",
+"How does maternity leave work?",
+"How does paternity leave work?",
+"Can bereavement leave be rejected?",
+"Will repeated leave requests trigger HR review?",
+"What is the leave approval process?"
+]
+},
+
+{
+"topic": "promotion_policy",
+"document_type": "hr_policy",
+"simple_answer": "Promotion is based on minimum tenure, performance consistency, appraisal ratings, attendance discipline, leadership readiness, manager recommendation, and business requirements. Employees usually need at least 12 months in their current role and strong performance ratings to be considered. Employees on probation, notice period, or active disciplinary review are generally not eligible. Promotions are reviewed twice a year during formal promotion cycles and require reporting manager, HR, department head, and final leadership approval.",
+"red_flags": [
+"Promotion is not guaranteed based only on years of service",
+"Poor attendance may delay or block promotion eligibility",
+"Disciplinary actions or warning notices can prevent promotion approval",
+"Employees on probation or notice period are generally not eligible",
+"No available higher role may delay promotion despite strong performance",
+"Manager recommendation alone does not guarantee promotion approval",
+"Promotion discussions without written approval are not final"
+],
+"practical_advice": [
+"Maintain strong appraisal ratings consistently",
+"Build leadership and ownership beyond daily assigned work",
+"Avoid attendance issues and policy violations",
+"Discuss career growth regularly with your reporting manager",
+"Take initiative in cross-functional responsibilities",
+"Track promotion review cycles during April and October",
+"Document achievements for appraisal discussions"
+],
+"negotiation_tips": [
+"Request formal feedback before promotion discussions",
+"Ask for promotion review during appraisal cycles instead of random requests",
+"Clarify required skill gaps for the next role",
+"Discuss salary revision separately from designation change",
+"Understand business availability before expecting immediate promotion"
+],
+"risk_level": "high",
+"user_questions": [
+"Who is eligible for promotion?",
+"Can I get promoted during probation?",
+"How often are promotions reviewed?",
+"Can poor attendance affect promotion?",
+"Who approves promotion decisions?",
+"Does promotion require manager approval?",
+"Can I get promoted after one year?",
+"Can promotion happen without salary increase?",
+"Can promotion be delayed even with strong performance?",
+"Can disciplinary action affect promotion?",
+"How does HR decide promotion eligibility?",
+"What appraisal rating is required for promotion?",
+"Can I request promotion manually?",
+"Can employees on notice period be promoted?",
+"Is promotion based on seniority or performance?",
+"What if there is no open higher role?",
+"Can promotion happen outside normal review cycle?",
+"Can probation confirmation happen faster instead of promotion?",
+"Will repeated late attendance affect promotion?",
+"What is the official promotion approval process?"
+]
+}
+]
