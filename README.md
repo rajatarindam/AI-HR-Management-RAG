@@ -153,6 +153,4 @@ Try asking:
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/rajatarindam
